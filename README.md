@@ -7,6 +7,8 @@
 
 <h2>Prototype Video</h2>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/RBoTxBRNops" frameborder="0" allowfullscreen></iframe>
+[![View Video Here](http://img.youtube.com/vi/6dkqVj7heiA/0.jpg)](http://www.youtube.com/watch?v=6dkqVj7heiA)
+
 
 <h2>User Summary</h2>
 <p>
